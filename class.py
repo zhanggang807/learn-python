@@ -1,3 +1,5 @@
+# 继承都没有讲，多继承
+# class Calculator(Frame):
 class Calculator:
     name = 'calculator'
     price = 18
