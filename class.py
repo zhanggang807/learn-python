@@ -1,4 +1,6 @@
 # 继承都没有讲，多继承
+# 还有一些super , __init__这样的方法,，自省，成员访问等
+
 # class Calculator(Frame):
 class Calculator:
     name = 'calculator'

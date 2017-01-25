@@ -14,3 +14,9 @@ print(t.time())
 from time import time, localtime
 
 print(localtime())
+
+# 包的概念，还有模块放置的位置
+
+# import xx.yy xx是包yy是yy.py
+
+dir(time)  # 查看模块中都有什么
